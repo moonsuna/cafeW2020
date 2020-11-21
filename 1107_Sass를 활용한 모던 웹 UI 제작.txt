@@ -1,0 +1,187 @@
+김데레사 선생님 git hub 주소
+https://github.com/seulbi/git-study
+https://github.com/seulb
+
+이듬(EUID)
+youtube.com/이듬
+git 버전관리-소개편/-환경설정편/-로컬저장소 관리편/-원격저장소 관리편
+
+카페W
+https://seulbi.github.io/cafeW/
+
+can i use
+https://caniuse.com/
+
+1. git - vs code - node
+
+node( Sass,자바스크입트를 사용하기 위해서 설치해야하는 프로그램)
+https://nodejs.org/ko/
+
+노드버전매니저(npm) 10버전/15버전-패키지매니저가 Sass를 쓸수 있게 도와줌
+
+BEM(네이밍패턴)
+http://getbem.com/
+
+노멀라이즈 CSS초기화
+https://necolas.github.io/normalize.css/
+https://necolas.github.io/normalize.css/8.0.1/normalize.css
+
+Sass
+https://sass-lang.com/
+Dart Sass
+https://sass-lang.com/dart-sass
+
+https://sass-lang.com/documentation/syntax
+https://sass-lang.com/documentation/syntax/parsing#input-encoding
+https://sass-lang.com/documentation/variables(변수)
+https://sass-lang.com/documentation/cli/dart-sass(글로벌npm설치)
+https://sass-lang.com/documentation/cli/dart-sass#watch
+https://sass-lang.com/documentation/cli/dart-sass#style
+
+https://sass-lang.com/documentation/variables#configuring-modules(변수)
+
+https://sass-lang.com/guide
+
+피그마
+https://www.figma.com/
+시안
+https://www.figma.com/file/xxGWMBciUEN4kVX7E2AcIC/Cafe-W?node-id=1%3A90
+
+생활코딩
+https://opentutorials.org/course/1
+
+타닥타닥 타자연습
+https://tadaktadak.co.kr/taja/jari.html?type=0&keyboardtype=smallen
+
+파셀(배포를 쉽게 해주는 툴)/웹팩(최신환경설정-영문으로 된 오리지널사이트에 접속)
+https://parceljs.org/
+개발(src폴더-,index,html,js,sass,assets)/배포(dist폴더 버전을 구분
+
+git push -f origin master (원격에서 변경이 된 사항
+때문에 원격 연동 푸시가 안되는 경우 강제로 덮어씌우는 경우- 위험함)
+git pull( 이것을 써야 함-원격을 가져와서 정보를 모든정보를 같이 쓸수있게 수락함) 
+git push origin master (푸시를 하는 명령어)
+git pull origin master (풀을 하는 명령어)
+git log --pretty=format:"%h %s" --graph (히스토리 보여주기)
+
+<터미널에서 명령어를 사용하지 못하는 경우>
+END 가 보이면 :Q 로 빠져나간다
+정지하고 싶으면 Control+C
+rm -rf .git  
+
+<cafeW_서버테스트 링크>
+http://localhost:1234/
+
+폰트 사이즈: rem단위
+픽셀 단위: em
+
+<집에서 작업할때 sass랑 npm, parcel을 깔고 연동해서 크롬에서 작업환경을 바로 볼수 있도록 하는 방법>
+1.npm install(실행되는 파일을 깔아주기)
+2.npm start ( VS코드 터미널에 입력해서 설치된 파일에 연동을 해준다)
+3.http://localhost:1234를 control+클릭을 해준다.
+--------------------------------------------------------------------------------------------------
+
+이미지를 노출시 코드 명령어는 img, svg 포멧을 사용함
+
+*코딩을 짤때는 논리적인 순서에 의해서 작업하는 것이 좋다
+(콘텐츠 중심)
+1. 로고
+2. 링크(sign in/sign up)
+3. 검색폼(버튼만 border box를 씀)
+
+*크롬 웹스토어에서 설치 해야함
+<Web Developer>
+https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
+<headingsMap>
+https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi
+
+<브런치>
+https://brunch.co.kr/@euid
+<1px보다 작은 라인 만들기>
+https://brunch.co.kr/@euid/6
+<euid이듬>
+https://euid.dev/#/
+
+<도서추천>책임감 있는 반응형디자인 
+http://www.yes24.com/Product/Goods/85383031
+
+flex/float(inline-block)
+추가할 가능성이 없는 것들은 높이를 고정하는 좋다
+
+교차축 정렬(Y축) aline-itms:center
+
+메인축 정렬(X축) jnstify-content
+                        :space-between
+
+*MIXIN 사용
+<position() 믹스인>
+https://github.com/seulbi/cafeW_Jeonju/blob/master/GUIDE.md#position-%EB%AF%B9%EC%8A%A4%EC%9D%B8
+<size() 믹스인>
+https://github.com/seulbi/cafeW_Jeonju/blob/master/GUIDE.md#size-%EB%AF%B9%EC%8A%A4%EC%9D%B8
+<position() 믹스인>
+https://github.com/seulbi/cafeW_Jeonju/blob/master/GUIDE.md#position-%EB%AF%B9%EC%8A%A4%EC%9D%B8
+
+*리베하얀(유튜브)
+https://www.youtube.com/user/rebehayan
+<SASS(SCSS) 사스 mixin과 include에 대해서>
+https://www.youtube.com/watch?v=VWZ5vYMckMM
+
+<focus-visible>
+https://css-tricks.com/almanac/selectors/f/focus-visible/
+<focus-visible polyfill>----마우스를 클릭하거나 엔터를 쳤을때 이미지에 아웃라인이 보이지 않게 하는 것
+https://github.com/WICG/focus-visible/
+
+<메가 네비게이션의 가장 좋은 케이스>
+대한항공
+https://www.koreanair.com/korea/ko.html
+---------------------------------------------------------------------------------------------------
+** svg이미지를 index.html 하단에 코드로 인식해서 만들게 하는 방법(코드 단축화)
+ 
+<SVG 스프라이트>-야무
+https://a11y.gitbook.io/graphics-aria/svg-graphics/sprites
+
+<스트라이트봇 다운로드>
+https://github.com/thomasjbradley/spritebot#download
+
+<fontello>-svg 포멧을 업로드 해서 웹상에서 폰트처럼 인식해서 사용함
+https://fontello.com/
+
+<anime.js>-몰핀애니메이션,G#이 지원하는 강력한 애니메이션을 모두 지원함
+                (CSS애니메이션,svg포멧)
+https://animejs.com/
+
+<픽셀밀도>
+https://brunch.co.kr/@blackindigo-red/18
+<yamoo9 anime.js svg 애니메이션>
+https://이듬.run/anime/
+https://이듬.run/anime/documentation/
+
+<CSS Selector Reference>
+https://www.w3schools.com/cssref/css_selectors.asp
+
+<NTH-CHILD MASTER>- 구조 선택자
+http://nthmaster.com/
+
+**mdn css animation
+<animation-duration>
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration
+<animation-name>
+https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name
+<animation-iteration-count>
+https://developer.mozilla.org/ko/docs/Web/CSS/animation-iteration-count
+<animation-direction>
+https://developer.mozilla.org/ko/docs/Web/CSS/animation-duration
+<animation-timing-function>
+https://developer.mozilla.org/ko/docs/Web/CSS/animation-timing-function
+<animation-play-state>
+-일시정지
+
+**물리곡선(애니메이션 물리효과)
+cubic-bezier.com
+
+**UI인터렉션- 새로운 직업군(디자인,CSS애니메이션,자바스크립트,에프터이펙트)
+사이트: 프로텐드포커스 애니메이션
+--------------------------------------------------------------------------------------------------
+2020 정보접근성기술 컨퍼런스
+https://bit.ly/2TNNE0d
+https://bit.ly/365TC2c
