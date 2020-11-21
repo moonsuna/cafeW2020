@@ -185,3 +185,9 @@ cubic-bezier.com
 2020 정보접근성기술 컨퍼런스
 https://bit.ly/2TNNE0d
 https://bit.ly/365TC2c
+
+우린 Git-flow를 사용하고 있어요
+https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
+
+**프레임 워크. 모듈 단위 코딩을 한다
+https://www.castingn.com/sourcing/kkultip_detail/110
