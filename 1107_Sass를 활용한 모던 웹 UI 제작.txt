@@ -206,6 +206,7 @@ markup을 할때 figure를 사용하여 이미지를 불러들여 반응형 이�
 좌우상하로 같이 줄어들고 늘어나는 상황에 대한 값을 figure로 사용한다
 
 *오픈왁스(크롬 스토어)
-*VS code muti cursor
+https://chrome.google.com/webstore/detail/openwax/bfahpbmaknaeohgdklfbobogpdngngoe/related?utm_source=chrome-ntp-icon
 
-seulbinim
+*VScode multi cursor
+
